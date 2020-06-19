@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20200325T000418Z - 94575@ip-172-31-47-136
+DTSTART:20200326T130000Z
+DTEND:20200326T140000Z
+ATTENDEE:MAILTO:agomez@alltic.co
+ATTENDEE:MAILTO:achaves@alltic.co
+ATTENDEE:MAILTO:achala@alltic.co
+ATTENDEE:MAILTO:
+ATTENDEE:MAILTO:criascos@alltic.co
+ATTENDEE:MAILTO:dperez@alltic.co
+ATTENDEE:MAILTO:chernandez@alltic.co
+ATTENDEE:MAILTO:vtrejos@alltic.co
+ATTENDEE:MAILTO:
+ATTENDEE:MAILTO:hczambrano@alltic.co
+ATTENDEE:MAILTO:ibarona@alltic.co
+ATTENDEE:MAILTO:jmartinez@alltic.co
+ATTENDEE:MAILTO:jbenavidez@alltic.co
+ATTENDEE:MAILTO:jlozano@alltic.co
+ATTENDEE:MAILTO:jcastano@alltic.co
+ATTENDEE:MAILTO:javendano@alltic.co
+ATTENDEE:MAILTO:jcaicedo@alltic.co
+ATTENDEE:MAILTO:jcvitta@alltic.co
+ATTENDEE:MAILTO:jromero@alltic.co
+ATTENDEE:MAILTO:khernandez@alltic.co
+ATTENDEE:MAILTO:mpolania@alltic.co
+ATTENDEE:MAILTO:mleal@alltic.co
+ATTENDEE:MAILTO:mangel@alltic.co
+ATTENDEE:MAILTO:mortiz@alltic.co
+ATTENDEE:MAILTO:nparedes@alltic.co
+ATTENDEE:MAILTO:opasuy@alltic.co
+ATTENDEE:MAILTO:orengifo@alltic.co
+ATTENDEE:MAILTO:pavillarreal@alltic.co
+ATTENDEE:MAILTO:rrhh@alltic.co
+ATTENDEE:MAILTO:wipia@alltic.co
+CREATED:20200325T000418Z
+DESCRIPTION:Buenas tardes.\nUna invitación especial para recordar y aprend
+ er los temas de mayor relevancia para el SST. Nos conectaremos por Zoom en
+  el siguiente link: https://us04web.zoom.us/j/618900584 
+DTSTAMP:20200325T000418Z
+SUMMARY:Inducción y reinducción SST
+BEGIN:VALARM
+ACTION:AUDIO
+DESCRIPTION:30 minuto(s)
+TRIGGER;related=START:PT30M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

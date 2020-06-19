@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20200325T134015Z - 58670@ip-172-31-47-136
+DTSTART:20200326T130000Z
+DTEND:20200326T140000Z
+ATTENDEE:MAILTO:jmartinez@alltic.co
+ATTENDEE:MAILTO:javendano@alltic.co
+ATTENDEE:MAILTO:mpolania@alltic.co
+ATTENDEE:MAILTO:pavillarreal@alltic.co
+CREATED:20200325T134015Z
+DESCRIPTION:Buenos días.\nPor instrucción de la dirección\, se solicita 
+ de su participación en la capacitación programada de SST el día de mañ
+ ana. https://us04web.zoom.us/j/618900584. \nLos esperamos.
+DTSTAMP:20200325T134015Z
+SUMMARY:Inducción y reinducción SST
+END:VEVENT
+END:VCALENDAR

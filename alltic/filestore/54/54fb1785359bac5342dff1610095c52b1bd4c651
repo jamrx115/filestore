@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>http://erp/website_payment/confirm</loc>
+    </url><url>
+        <loc>http://erp/website_payment/pay</loc>
+    </url><url>
+        <loc>http://erp/evaluation/results</loc>
+    </url><url>
+        <loc>http://erp/website/info</loc>
+    </url><url>
+        <loc>http://erp/forum</loc>
+    </url><url>
+        <loc>http://erp/</loc>
+    </url><url>
+        <loc>http://erp/forum/ayuda-1</loc>
+    </url><url>
+        <loc>http://erp/survey/print/formulario-de-seleccion-1</loc>
+    </url><url>
+        <loc>http://erp/survey/start/formulario-de-seleccion-1</loc>
+    </url><url>
+        <loc>http://erp/forum/ayuda-1/badge</loc>
+    </url><url>
+        <loc>http://erp/forum/ayuda-1/users</loc>
+    </url><url>
+        <loc>http://erp/forum/ayuda-1/faq</loc>
+    </url><url>
+        <loc>http://erp/aboutus</loc>
+    </url><url>
+        <loc>http://erp/contactus</loc>
+    </url>
+
+</urlset>

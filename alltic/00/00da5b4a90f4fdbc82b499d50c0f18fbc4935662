@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PYVOBJECT//NONSGML Version 1//EN
+BEGIN:VEVENT
+UID:20190916T144156Z - 50013@odoo
+DTSTART:20190906T140000Z
+DTEND:20190906T150000Z
+ATTENDEE:MAILTO:
+ATTENDEE:MAILTO:mleal@alltic.co
+ATTENDEE:MAILTO:jcvitta@alltic.co
+CREATED:20190916T144156Z
+DESCRIPTION:Se presentó la empresa con el señor\nRafael Pedrosa Chaparro 
+ - Director de servicios de tecnología rafael.pedrosa@girosyfinanzas.com\n
+ Miguel Julian Escobar - PMO - miguel.escobar@girosyfinanzas.com
+DTSTAMP:20190916T144156Z
+LOCATION:Giros y finanzas Sanfernando
+SUMMARY:Presentación de la empresa
+END:VEVENT
+END:VCALENDAR
